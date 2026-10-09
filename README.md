@@ -1,5 +1,5 @@
 # Símbolos
-É um atalho (**Win + Alt + .**) simples pra digitar símbolos matemáticos, letras gregas, e pra converter texto selecionado em MAIÚSCULO ou minúsculo.
+É um atalho (**Win + Alt + .**) pra digitar símbolos matemáticos, letras gregas, e pra converter texto selecionado em MAIÚSCULO ou minúsculo.
 
 ## Como usar
 1. Baixe o `.exe` na aba **Releases** (lado direito da página do GitHub).
