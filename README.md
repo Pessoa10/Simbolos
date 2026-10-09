@@ -1,7 +1,7 @@
-## Download
+### Download
 [![Baixar para Windows](https://img.shields.io/badge/Windows-.exe-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Pessoa10/Simbolos/releases/download/v1.0/Simbolos.exe)
 
-# Símbolos
+## Símbolos
 É um atalho (**Win + Alt + .**) pra digitar símbolos matemáticos, letras gregas, e pra converter texto selecionado em MAIÚSCULO ou minúsculo.
 
 ## Como usar
