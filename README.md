@@ -5,7 +5,7 @@
 É um atalho (**Win + Alt + .**) pra digitar símbolos matemáticos, letras gregas, e pra converter texto selecionado em MAIÚSCULO ou minúsculo.
 
 ## Como usar
-1. Baixe o `.exe` na aba **Releases** (lado direito da página do GitHub).
+1. Baixe o `.exe` no tópico Download acima ou na seção **Releases** (lado direito da página do GitHub).
 2. Execute o arquivo.
 3. Aperte **Win + Alt + .** pra abrir o menu.
 4. Clique no que quiser.
