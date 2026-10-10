@@ -19,4 +19,7 @@
 Simbolos foi feito em AutoHotkey **v2.0**. 
 O código-fonte está no arquivo `Simbolos.ahk`. Instale o [AutoHotkey](https://www.autohotkey.com) e abra o arquivo.
 
+## Prints
+<img width="1920" height="1080" alt="Print 1" src="https://github.com/user-attachments/assets/249c0d12-1bcb-497d-86ca-fb7f0039b958" />
+<img width="988" height="896" alt="Print 2" src="https://github.com/user-attachments/assets/35f25dcc-bebc-4c08-bd09-ec40fd2ac538" />
 
